@@ -1,1 +1,2 @@
 Documento de VitalLink
+print("Hello, World!")
